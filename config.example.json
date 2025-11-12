@@ -1,0 +1,137 @@
+{
+  "app": {
+    "name": "AgenteBusqueda",
+    "version": "0.1.0",
+    "environment": "development"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  },
+  "api": {
+    "timeout": 30,
+    "max_retries": 3,
+    "user_agent": "AgenteBusqueda/0.1.0"
+  },
+  "redis": {
+    "url": "redis://localhost:6379/0",
+    "ttl": {
+      "search": 3600,
+      "contacts": 86400,
+      "default": 1800
+    }
+  },
+  "mercadolibre": {
+    "api": {
+      "host": "mercado-libre7.p.rapidapi.com",
+      "endpoints": {
+        "search": "/listings_for_search"
+      },
+      "timeout": 30,
+      "default_limit": 10,
+      "max_limit": 50
+    },
+    "search": {
+      "sort_options": ["relevance", "price_asc", "price_desc"],
+      "default_sort": "relevance",
+      "max_pages": 100
+    }
+  },
+  "google": {
+    "search": {
+      "endpoint": "https://www.googleapis.com/customsearch/v1",
+      "max_results": 10
+    },
+    "maps": {
+      "endpoint": "https://maps.googleapis.com/maps/api/place",
+      "radius": 5000
+    }
+  },
+  "filters": {
+    "excluded_brands": [
+      "samsung",
+      "apple",
+      "sony",
+      "lg",
+      "motorola",
+      "xiaomi",
+      "huawei",
+      "nokia",
+      "lenovo",
+      "hp",
+      "dell",
+      "asus",
+      "acer",
+      "microsoft",
+      "google",
+      "amazon"
+    ],
+    "min_seller_reputation": 0,
+    "max_price": 1000000000,
+    "min_price": 0,
+    "allowed_conditions": ["new", "used", "not_specified"]
+  },
+  "ranking": {
+    "weights": {
+      "price": 0.4,
+      "sales": 0.4,
+      "condition": 0.2
+    },
+    "price": {
+      "max_price": 1000000,
+      "price_floor": 1000,
+      "price_decay": 100000.0
+    },
+    "sales": {
+      "max_sales": 100,
+      "sales_weight": 1.0
+    },
+    "condition": {
+      "scores": {
+        "new": 1.0,
+        "new_other": 0.9,
+        "new_with_defects": 0.8,
+        "manufacturer_refurbished": 0.7,
+        "seller_refurbished": 0.6,
+        "used": 0.5,
+        "for_parts": 0.3,
+        "not_specified": 0.5
+      },
+      "default_score": 0.5
+    },
+    "seller": {
+      "base_score": 0.5,
+      "default_score": 0.5,
+      "level_multipliers": {
+        "5_green": 1.5,
+        "4_light_green": 1.3,
+        "3_yellow": 1.1,
+        "2_orange": 0.9,
+        "1_red": 0.7
+      },
+      "completed_transaction_weight": 0.0001,
+      "max_transaction_bonus": 0.2
+    },
+    "shipping": {
+      "base_score": 0.5,
+      "default_score": 0.5,
+      "free_shipping_bonus": 0.2,
+      "fast_shipping_bonus": 0.1
+    }
+  },
+  "monitoring": {
+    "enabled": true,
+    "app_insights": {
+      "instrumentation_key": "YOUR_APP_INSIGHTS_KEY_HERE"
+    }
+  },
+  "secrets": {
+    "required_secrets": [
+      "RAPIDAPI-KEY",
+      "GOOGLE-API-KEY",
+      "GOOGLE-CSE-ID"
+    ]
+  },
+  "cache_ttl_search": 3600,
+  "cache_ttl_contacts": 86400
+}

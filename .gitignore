@@ -1,0 +1,99 @@
+# Entornos virtuales
+ANALISIS_PROYECTO.md
+CV_RECOMMENDATIONS.md
+RESUMEN_ANALISIS.md
+venv/
+venv310/
+ENV/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de configuración con datos sensibles
+*.env
+.env
+*.json
+!config.example.json
+
+# Archivos de registro
+*.log
+
+# Archivos de desarrollo
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de caché y bases de datos locales
+*.db
+*.sqlite3
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de cobertura
+.coverage
+htmlcov/
+
+# Archivos de profiling
+.prof
+
+# Archivos de entornos virtuales
+.python-version
+
+# Archivos de PyCharm
+.idea/
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de configuración de Python
+.pytest_cache/
+.mypy_cache/
+
+# Archivos de configuración de pre-commit
+.pre-commit-config.yaml
+
+# Archivos de configuración de black
+.pyc
+
+# Archivos de configuración de bandit
+.bandit
+
+# Archivos de configuración de seguridad
+secrets.py
+
+# Archivos de configuración de Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+docker-compose.*.yml

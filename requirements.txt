@@ -1,0 +1,40 @@
+# Core
+azure-functions>=1.21.3
+azure-functions-durable>=1.0.0
+azure-identity>=1.19.0
+azure-keyvault-secrets>=4.9.0
+azure-data-tables>=12.0.0
+
+# HTTP y asincronía
+aiohttp>=3.9.0
+requests>=2.31.0
+
+# Procesamiento
+beautifulsoup4>=4.12.0
+python-dotenv>=1.0.1
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Base de datos
+psycopg2-binary>=2.9.3
+SQLAlchemy>=2.0.0
+alembic>=1.13.0
+
+# OpenAPI/Swagger
+azure-functions-openapi>=0.10.0
+
+# Utilidades
+tenacity>=8.2.3  # Para reintentos
+google-api-python-client>=2.0.0
+python-dateutil>=2.8.2
+pytz>=2022.1
+
+# Google APIs
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+google-auth>=2.0.0
+
+# Testing
+pytest-asyncio>=0.21.0
+pytest>=7.0.0
+pytest-cov>=4.0.0

@@ -1,0 +1,923 @@
+[1magents/__init__.py[m[36m:[m7[36m:[m90[36m:[m [1m[31mW292[m no newline at end of file
+[1magents/agente_contacts.py[m[36m:[m9[36m:[m1[36m:[m [1m[31mF401[m 'typing.Union' imported but unused
+[1magents/agente_contacts.py[m[36m:[m21[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1magents/agente_contacts.py[m[36m:[m25[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m29[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m30[36m:[m71[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_contacts.py[m[36m:[m35[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m48[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m54[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m60[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m65[36m:[m47[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_contacts.py[m[36m:[m72[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m75[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m83[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m93[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m95[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m96[36m:[m79[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_contacts.py[m[36m:[m100[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m105[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m110[36m:[m31[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_contacts.py[m[36m:[m115[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m119[36m:[m37[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_contacts.py[m[36m:[m122[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m127[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m131[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m142[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m153[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m159[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m168[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m170[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m175[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m178[36m:[m51[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_contacts.py[m[36m:[m182[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m184[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m188[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m195[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m198[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_contacts.py[m[36m:[m201[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m6[36m:[m1[36m:[m [1m[31mF401[m 'typing.Optional' imported but unused
+[1magents/agente_filtro.py[m[36m:[m12[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1magents/agente_filtro.py[m[36m:[m14[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m18[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m28[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m32[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m36[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m39[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m45[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m47[36m:[m9[36m:[m [1m[31mF841[m local variable 'min_seller_reputation' is assigned to but never used
+[1magents/agente_filtro.py[m[36m:[m51[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m57[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m62[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m65[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m69[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m71[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m76[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m79[36m:[m121[36m:[m [1m[31mE501[m line too long (130 > 120 characters)
+[1magents/agente_filtro.py[m[36m:[m81[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m84[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m87[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m91[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_filtro.py[m[36m:[m97[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m11[36m:[m1[36m:[m [1m[31mF401[m 'typing.List' imported but unused
+[1magents/agente_gmaps.py[m[36m:[m11[36m:[m1[36m:[m [1m[31mF401[m 'typing.Tuple' imported but unused
+[1magents/agente_gmaps.py[m[36m:[m11[36m:[m1[36m:[m [1m[31mF401[m 'typing.Union' imported but unused
+[1magents/agente_gmaps.py[m[36m:[m30[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1magents/agente_gmaps.py[m[36m:[m32[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m36[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m47[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m52[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m54[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m58[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m61[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m67[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m70[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m76[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m80[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m84[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m87[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m91[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m94[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m102[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m106[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m110[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m117[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m125[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m129[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m132[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m136[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m142[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m148[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m152[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m154[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m157[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m162[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m166[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m169[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m178[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m183[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m190[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m192[36m:[m44[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_gmaps.py[m[36m:[m193[36m:[m35[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_gmaps.py[m[36m:[m197[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m200[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m209[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m213[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m218[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m222[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m226[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m230[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m240[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m246[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m249[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m253[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m257[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m261[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m266[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m273[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m277[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m279[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m284[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m286[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m290[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m293[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m299[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m303[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m305[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m322[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m327[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m331[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m334[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m343[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m348[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m350[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m356[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m371[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m373[36m:[m5[36m:[m [1m[31mE303[m too many blank lines (2)
+[1magents/agente_gmaps.py[m[36m:[m376[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m377[36m:[m90[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_gmaps.py[m[36m:[m379[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m383[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m396[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m399[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m406[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m410[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m412[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m424[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1magents/agente_gmaps.py[m[36m:[m427[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m432[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m440[36m:[m1[36m:[m [1m[31mE305[m expected 2 blank lines after class or function definition, found 1
+[1magents/agente_gmaps.py[m[36m:[m443[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m447[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m450[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m456[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m460[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_gmaps.py[m[36m:[m464[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m16[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1magents/agente_google.py[m[36m:[m18[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m21[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m22[36m:[m64[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m23[36m:[m57[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m24[36m:[m29[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m28[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m41[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m47[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m53[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m55[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m59[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m61[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m64[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m73[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m75[36m:[m121[36m:[m [1m[31mE501[m line too long (190 > 120 characters)
+[1magents/agente_google.py[m[36m:[m76[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m79[36m:[m33[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m80[36m:[m31[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m82[36m:[m22[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m83[36m:[m24[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m84[36m:[m31[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m87[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m93[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m99[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m107[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m111[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m114[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m116[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m122[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m126[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m133[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m137[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m141[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m145[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m149[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m154[36m:[m121[36m:[m [1m[31mE501[m line too long (126 > 120 characters)
+[1magents/agente_google.py[m[36m:[m156[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m160[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m162[36m:[m45[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m164[36m:[m46[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m166[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m168[36m:[m104[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_google.py[m[36m:[m169[36m:[m42[36m:[m [1m[31mE128[m continuation line under-indented for visual indent
+[1magents/agente_google.py[m[36m:[m171[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m177[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m179[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m183[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m192[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m196[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m200[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m206[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m209[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m213[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_google.py[m[36m:[m216[36m:[m27[36m:[m [1m[31mF821[m undefined name 'requests'
+[1magents/agente_google.py[m[36m:[m217[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m7[36m:[m1[36m:[m [1m[31mF401[m 'typing.Union' imported but unused
+[1magents/agente_ml.py[m[36m:[m16[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1magents/agente_ml.py[m[36m:[m18[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m20[36m:[m14[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_ml.py[m[36m:[m29[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m42[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m46[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m51[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m57[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m65[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m68[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m71[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m75[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m77[36m:[m14[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_ml.py[m[36m:[m78[36m:[m20[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_ml.py[m[36m:[m80[36m:[m27[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_ml.py[m[36m:[m86[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m93[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m102[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m108[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m117[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m121[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m126[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m130[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m138[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m141[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m146[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m150[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m153[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m160[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m164[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m167[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m174[36m:[m26[36m:[m [1m[31mF541[m f-string is missing placeholders
+[1magents/agente_ml.py[m[36m:[m175[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m182[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m185[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m188[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m191[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m193[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m197[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m199[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m207[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m217[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m225[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m229[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m233[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m239[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m244[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m247[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m254[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m260[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m266[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m270[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m274[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m280[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m285[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m288[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m295[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m301[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m307[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m311[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m315[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m321[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m326[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m329[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m336[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m342[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m348[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m352[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m355[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m361[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m364[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m367[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m370[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m391[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m395[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m398[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m400[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m404[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m414[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m422[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m426[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m434[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m442[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m448[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m453[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m458[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m466[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m471[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m474[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ml.py[m[36m:[m482[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m13[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1magents/agente_ranking.py[m[36m:[m15[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m19[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m29[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m36[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m38[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m42[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m45[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m51[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m59[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m62[36m:[m38[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_ranking.py[m[36m:[m67[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m74[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m80[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m86[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m92[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m99[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m101[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m107[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m108[36m:[m69[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_ranking.py[m[36m:[m109[36m:[m30[36m:[m [1m[31mE128[m continuation line under-indented for visual indent
+[1magents/agente_ranking.py[m[36m:[m112[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m118[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m124[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m129[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m131[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m135[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m140[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m146[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m151[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m153[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m157[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m161[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m176[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m178[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m182[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m186[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m192[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m196[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m199[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m204[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m208[36m:[m103[36m:[m [1m[31mW291[m trailing whitespace
+[1magents/agente_ranking.py[m[36m:[m209[36m:[m30[36m:[m [1m[31mE128[m continuation line under-indented for visual indent
+[1magents/agente_ranking.py[m[36m:[m210[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m212[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m216[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m220[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m226[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m229[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m233[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m237[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m239[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m240[36m:[m121[36m:[m [1m[31mE501[m line too long (130 > 120 characters)
+[1magents/agente_ranking.py[m[36m:[m243[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m248[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m254[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m257[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m265[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m268[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/agente_ranking.py[m[36m:[m272[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/common.py[m[36m:[m6[36m:[m1[36m:[m [1m[31mF401[m 'json' imported but unused
+[1magents/common.py[m[36m:[m7[36m:[m1[36m:[m [1m[31mF401[m 'typing.Any' imported but unused
+[1magents/common.py[m[36m:[m7[36m:[m1[36m:[m [1m[31mF401[m 'typing.Optional' imported but unused
+[1magents/common.py[m[36m:[m7[36m:[m1[36m:[m [1m[31mF401[m 'typing.List' imported but unused
+[1magents/common.py[m[36m:[m7[36m:[m1[36m:[m [1m[31mF401[m 'typing.Union' imported but unused
+[1magents/common.py[m[36m:[m17[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1magents/common.py[m[36m:[m20[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/common.py[m[36m:[m23[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/common.py[m[36m:[m30[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/common.py[m[36m:[m40[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/common.py[m[36m:[m45[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/common.py[m[36m:[m61[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/common.py[m[36m:[m67[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/common.py[m[36m:[m80[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/common.py[m[36m:[m83[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1magents/common.py[m[36m:[m91[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m3[36m:[m1[36m:[m [1m[31mF401[m 'typing.Union' imported but unused
+[1mapp/api_client.py[m[36m:[m16[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mapp/api_client.py[m[36m:[m19[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m26[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m30[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m38[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m41[36m:[m121[36m:[m [1m[31mE501[m line too long (144 > 120 characters)
+[1mapp/api_client.py[m[36m:[m47[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m52[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m59[36m:[m69[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/api_client.py[m[36m:[m63[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m69[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m72[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m78[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m87[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m90[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m93[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m97[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m98[36m:[m73[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/api_client.py[m[36m:[m102[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m108[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m115[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m124[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m128[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m132[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m136[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/api_client.py[m[36m:[m140[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m8[36m:[m1[36m:[m [1m[31mF401[m 'typing.Optional' imported but unused
+[1mapp/config_manager.py[m[36m:[m8[36m:[m1[36m:[m [1m[31mF401[m 'typing.Union' imported but unused
+[1mapp/config_manager.py[m[36m:[m8[36m:[m1[36m:[m [1m[31mF401[m 'typing.List' imported but unused
+[1mapp/config_manager.py[m[36m:[m9[36m:[m1[36m:[m [1m[31mF401[m 'pathlib.Path' imported but unused
+[1mapp/config_manager.py[m[36m:[m20[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mapp/config_manager.py[m[36m:[m23[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m27[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m31[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m39[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m43[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m46[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m52[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m56[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m60[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m62[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m66[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m71[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m74[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m82[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m90[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m94[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m98[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m107[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m113[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m117[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m123[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m126[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m131[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m134[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m142[36m:[m121[36m:[m [1m[31mE501[m line too long (128 > 120 characters)
+[1mapp/config_manager.py[m[36m:[m144[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m148[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m151[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m154[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m159[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m164[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m168[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m173[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m177[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m181[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m191[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m203[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m213[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/config_manager.py[m[36m:[m216[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/database.py[m[36m:[m20[36m:[m57[36m:[m [1m[31mE999[m SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[1mapp/main.py[m[36m:[m13[36m:[m1[36m:[m [1m[31mF401[m 'app.orquestador.Orquestador' imported but unused
+[1mapp/main.py[m[36m:[m13[36m:[m1[36m:[m [1m[31mE402[m module level import not at top of file
+[1mapp/main.py[m[36m:[m25[36m:[m57[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1mapp/main.py[m[36m:[m26[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m29[36m:[m74[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mapp/main.py[m[36m:[m32[36m:[m89[36m:[m [1m[31mF821[m undefined name 'EXCLUDED_BRANDS'
+[1mapp/main.py[m[36m:[m34[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m38[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m40[36m:[m49[36m:[m [1m[31mE203[m whitespace before ':'
+[1mapp/main.py[m[36m:[m40[36m:[m51[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/main.py[m[36m:[m41[36m:[m14[36m:[m [1m[31mE111[m indentation is not a multiple of 4
+[1mapp/main.py[m[36m:[m41[36m:[m14[36m:[m [1m[31mE117[m over-indented
+[1mapp/main.py[m[36m:[m42[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m50[36m:[m83[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1mapp/main.py[m[36m:[m50[36m:[m121[36m:[m [1m[31mE501[m line too long (123 > 120 characters)
+[1mapp/main.py[m[36m:[m60[36m:[m104[36m:[m [1m[31mF821[m undefined name 'Optional'
+[1mapp/main.py[m[36m:[m62[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m64[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m67[36m:[m44[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/main.py[m[36m:[m69[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m75[36m:[m21[36m:[m [1m[31mF821[m undefined name 'SELLER_CONTACT_CACHE'
+[1mapp/main.py[m[36m:[m77[36m:[m16[36m:[m [1m[31mF821[m undefined name 'SELLER_CONTACT_CACHE'
+[1mapp/main.py[m[36m:[m78[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m80[36m:[m121[36m:[m [1m[31mE501[m line too long (186 > 120 characters)
+[1mapp/main.py[m[36m:[m85[36m:[m29[36m:[m [1m[31mF821[m undefined name 'Optional'
+[1mapp/main.py[m[36m:[m89[36m:[m20[36m:[m [1m[31mF821[m undefined name 'requests'
+[1mapp/main.py[m[36m:[m89[36m:[m33[36m:[m [1m[31mF821[m undefined name 'GOOGLE_API_HOST'
+[1mapp/main.py[m[36m:[m89[36m:[m73[36m:[m [1m[31mF821[m undefined name 'REQUEST_TIMEOUT'
+[1mapp/main.py[m[36m:[m99[36m:[m121[36m:[m [1m[31mE501[m line too long (134 > 120 characters)
+[1mapp/main.py[m[36m:[m100[36m:[m31[36m:[m [1m[31mF821[m undefined name 're'
+[1mapp/main.py[m[36m:[m103[36m:[m36[36m:[m [1m[31mF821[m undefined name 're'
+[1mapp/main.py[m[36m:[m104[36m:[m52[36m:[m [1m[31mE701[m multiple statements on one line (colon)
+[1mapp/main.py[m[36m:[m105[36m:[m53[36m:[m [1m[31mE701[m multiple statements on one line (colon)
+[1mapp/main.py[m[36m:[m106[36m:[m121[36m:[m [1m[31mE501[m line too long (184 > 120 characters)
+[1mapp/main.py[m[36m:[m110[36m:[m30[36m:[m [1m[31mE111[m indentation is not a multiple of 4
+[1mapp/main.py[m[36m:[m110[36m:[m30[36m:[m [1m[31mE117[m over-indented
+[1mapp/main.py[m[36m:[m112[36m:[m30[36m:[m [1m[31mE111[m indentation is not a multiple of 4
+[1mapp/main.py[m[36m:[m112[36m:[m30[36m:[m [1m[31mE117[m over-indented
+[1mapp/main.py[m[36m:[m112[36m:[m65[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1mapp/main.py[m[36m:[m113[36m:[m121[36m:[m [1m[31mE501[m line too long (123 > 120 characters)
+[1mapp/main.py[m[36m:[m113[36m:[m122[36m:[m [1m[31mE203[m whitespace before ':'
+[1mapp/main.py[m[36m:[m115[36m:[m94[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1mapp/main.py[m[36m:[m116[36m:[m30[36m:[m [1m[31mE111[m indentation is not a multiple of 4
+[1mapp/main.py[m[36m:[m116[36m:[m30[36m:[m [1m[31mE117[m over-indented
+[1mapp/main.py[m[36m:[m117[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m120[36m:[m83[36m:[m [1m[31mE203[m whitespace before ':'
+[1mapp/main.py[m[36m:[m120[36m:[m85[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1mapp/main.py[m[36m:[m124[36m:[m13[36m:[m [1m[31mE303[m too many blank lines (2)
+[1mapp/main.py[m[36m:[m125[36m:[m31[36m:[m [1m[31mF821[m undefined name 're'
+[1mapp/main.py[m[36m:[m126[36m:[m31[36m:[m [1m[31mE701[m multiple statements on one line (colon)
+[1mapp/main.py[m[36m:[m127[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m129[36m:[m28[36m:[m [1m[31mF821[m undefined name 're'
+[1mapp/main.py[m[36m:[m129[36m:[m121[36m:[m [1m[31mE501[m line too long (279 > 120 characters)
+[1mapp/main.py[m[36m:[m130[36m:[m28[36m:[m [1m[31mE701[m multiple statements on one line (colon)
+[1mapp/main.py[m[36m:[m132[36m:[m69[36m:[m [1m[31mE701[m multiple statements on one line (colon)
+[1mapp/main.py[m[36m:[m138[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m140[36m:[m9[36m:[m [1m[31mF821[m undefined name 'SELLER_CONTACT_CACHE'
+[1mapp/main.py[m[36m:[m142[36m:[m12[36m:[m [1m[31mF821[m undefined name 'requests'
+[1mapp/main.py[m[36m:[m150[36m:[m28[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1mapp/main.py[m[36m:[m153[36m:[m70[36m:[m [1m[31mF821[m undefined name 'Optional'
+[1mapp/main.py[m[36m:[m157[36m:[m46[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/main.py[m[36m:[m159[36m:[m23[36m:[m [1m[31mF821[m undefined name 'quote'
+[1mapp/main.py[m[36m:[m180[36m:[m19[36m:[m [1m[31mF821[m undefined name 'get_secrets_from_keyvault'
+[1mapp/main.py[m[36m:[m185[36m:[m28[36m:[m [1m[31mF821[m undefined name 'search_ml_listings'
+[1mapp/main.py[m[36m:[m189[36m:[m121[36m:[m [1m[31mE501[m line too long (130 > 120 characters)
+[1mapp/main.py[m[36m:[m197[36m:[m121[36m:[m [1m[31mE501[m line too long (139 > 120 characters)
+[1mapp/main.py[m[36m:[m200[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m202[36m:[m65[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1mapp/main.py[m[36m:[m205[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m227[36m:[m43[36m:[m [1m[31mE701[m multiple statements on one line (colon)
+[1mapp/main.py[m[36m:[m227[36m:[m50[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1mapp/main.py[m[36m:[m228[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/main.py[m[36m:[m237[36m:[m121[36m:[m [1m[31mE501[m line too long (154 > 120 characters)
+[1mapp/main.py[m[36m:[m240[36m:[m121[36m:[m [1m[31mE501[m line too long (157 > 120 characters)
+[1mapp/main.py[m[36m:[m243[36m:[m121[36m:[m [1m[31mE501[m line too long (159 > 120 characters)
+[1mapp/main.py[m[36m:[m243[36m:[m160[36m:[m [1m[31mW292[m no newline at end of file
+[1mapp/orquestador.py[m[36m:[m7[36m:[m1[36m:[m [1m[31mF401[m 'typing.Optional' imported but unused
+[1mapp/orquestador.py[m[36m:[m35[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mapp/orquestador.py[m[36m:[m38[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m44[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m45[36m:[m83[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/orquestador.py[m[36m:[m49[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m58[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m67[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m75[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m78[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m86[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m91[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m94[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m97[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m102[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m106[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m112[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m116[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m123[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m127[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m129[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m139[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m147[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m159[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m167[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m169[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m173[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m178[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m182[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m185[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m192[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m195[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m198[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m202[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m206[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m210[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m214[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m219[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m221[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m225[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m229[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m243[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m246[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m251[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m253[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m261[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m263[36m:[m44[36m:[m [1m[31mF821[m undefined name 'cache_key'
+[1mapp/orquestador.py[m[36m:[m267[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m269[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m278[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m282[36m:[m41[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/orquestador.py[m[36m:[m283[36m:[m63[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/orquestador.py[m[36m:[m286[36m:[m32[36m:[m [1m[31mF821[m undefined name 'cache_key'
+[1mapp/orquestador.py[m[36m:[m289[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m294[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m298[36m:[m41[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/orquestador.py[m[36m:[m299[36m:[m101[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/orquestador.py[m[36m:[m302[36m:[m32[36m:[m [1m[31mF821[m undefined name 'cache_key'
+[1mapp/orquestador.py[m[36m:[m305[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m312[36m:[m39[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/orquestador.py[m[36m:[m318[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m322[36m:[m41[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/orquestador.py[m[36m:[m323[36m:[m79[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/orquestador.py[m[36m:[m326[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m331[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m334[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m336[36m:[m75[36m:[m [1m[31mW291[m trailing whitespace
+[1mapp/orquestador.py[m[36m:[m346[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m350[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m359[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m365[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m380[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m381[36m:[m78[36m:[m [1m[31mF821[m undefined name 'json'
+[1mapp/orquestador.py[m[36m:[m390[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m397[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m400[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m408[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m411[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m418[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/orquestador.py[m[36m:[m420[36m:[m28[36m:[m [1m[31mF821[m undefined name 'cache_key'
+[1mapp/orquestador.py[m[36m:[m423[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m11[36m:[m1[36m:[m [1m[31mF401[m 'urllib.parse.urlencode' imported but unused
+[1mapp/utils\web_search.py[m[36m:[m16[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mapp/utils\web_search.py[m[36m:[m21[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m25[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m31[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m34[36m:[m121[36m:[m [1m[31mE501[m line too long (144 > 120 characters)
+[1mapp/utils\web_search.py[m[36m:[m39[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m43[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m47[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m52[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m79[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m82[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m84[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m88[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m90[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m94[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m98[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m101[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m104[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m108[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m112[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m114[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m121[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m127[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m131[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m134[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m137[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m141[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m144[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m150[36m:[m121[36m:[m [1m[31mE501[m line too long (136 > 120 characters)
+[1mapp/utils\web_search.py[m[36m:[m154[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m157[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m159[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m164[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m166[36m:[m65[36m:[m [1m[31mE713[m test for membership should be 'not in'
+[1mapp/utils\web_search.py[m[36m:[m168[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m172[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m178[36m:[m121[36m:[m [1m[31mE501[m line too long (136 > 120 characters)
+[1mapp/utils\web_search.py[m[36m:[m186[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m188[36m:[m121[36m:[m [1m[31mE501[m line too long (132 > 120 characters)
+[1mapp/utils\web_search.py[m[36m:[m189[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m191[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m195[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m202[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m206[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m210[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m221[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m227[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m240[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m242[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m246[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m250[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mapp/utils\web_search.py[m[36m:[m253[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m10[36m:[m1[36m:[m [1m[31mF401[m 'typing.Union' imported but unused
+[1mservices/cache_manager.py[m[36m:[m16[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mservices/cache_manager.py[m[36m:[m18[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m22[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m24[36m:[m79[36m:[m [1m[31mW291[m trailing whitespace
+[1mservices/cache_manager.py[m[36m:[m29[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m33[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m44[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m48[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m51[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m75[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m79[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m84[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m105[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m109[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m112[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m126[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m130[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m145[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mservices/cache_manager.py[m[36m:[m148[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m152[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m165[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m168[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m173[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m177[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m183[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m186[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/cache_manager.py[m[36m:[m191[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m8[36m:[m1[36m:[m [1m[31mF401[m 'typing.List' imported but unused
+[1mservices/config_manager.py[m[36m:[m8[36m:[m1[36m:[m [1m[31mF401[m 'typing.Union' imported but unused
+[1mservices/config_manager.py[m[36m:[m17[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mservices/config_manager.py[m[36m:[m19[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m26[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m34[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m37[36m:[m46[36m:[m [1m[31mW291[m trailing whitespace
+[1mservices/config_manager.py[m[36m:[m40[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m44[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m48[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m52[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m56[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m60[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m64[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m69[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m81[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m84[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m86[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m99[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m112[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m116[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m120[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m125[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m129[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m136[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m140[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m143[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m155[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mservices/config_manager.py[m[36m:[m159[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m8[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m10[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m16[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m18[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m26[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m36[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m47[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m49[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m53[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m57[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m62[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m69[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m73[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m86[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m97[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m99[36m:[m121[36m:[m [1m[31mE501[m line too long (164 > 120 characters)
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m101[36m:[m29[36m:[m [1m[31mE722[m do not use bare 'except'
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m102[36m:[m39[36m:[m [1m[31mF541[m f-string is missing placeholders
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m107[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m110[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m113[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m123[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/check_rapidapi_endpoints.py[m[36m:[m131[36m:[m1[36m:[m [1m[31mE305[m expected 2 blank lines after class or function definition, found 1
+[1mutils/formatters.py[m[36m:[m11[36m:[m1[36m:[m [1m[31mF401[m 'typing.List' imported but unused
+[1mutils/formatters.py[m[36m:[m11[36m:[m1[36m:[m [1m[31mF401[m 'typing.Optional' imported but unused
+[1mutils/formatters.py[m[36m:[m16[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mutils/formatters.py[m[36m:[m20[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m24[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m28[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m35[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m37[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m39[36m:[m121[36m:[m [1m[31mE501[m line too long (138 > 120 characters)
+[1mutils/formatters.py[m[36m:[m40[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m48[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m50[36m:[m121[36m:[m [1m[31mE501[m line too long (137 > 120 characters)
+[1mutils/formatters.py[m[36m:[m51[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m54[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m61[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m66[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m69[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mutils/formatters.py[m[36m:[m73[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m76[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m82[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m85[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m90[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/formatters.py[m[36m:[m94[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m10[36m:[m1[36m:[m [1m[31mF401[m 'typing.Union' imported but unused
+[1mutils/monitoring.py[m[36m:[m10[36m:[m1[36m:[m [1m[31mF401[m 'typing.List' imported but unused
+[1mutils/monitoring.py[m[36m:[m30[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mutils/monitoring.py[m[36m:[m32[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m36[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m46[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m55[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m59[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m67[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m72[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m79[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m88[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m99[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m103[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m105[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m109[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m116[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m122[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m132[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m135[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m139[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m147[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m150[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m159[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m162[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m163[36m:[m89[36m:[m [1m[31mW291[m trailing whitespace
+[1mutils/monitoring.py[m[36m:[m164[36m:[m23[36m:[m [1m[31mE128[m continuation line under-indented for visual indent
+[1mutils/monitoring.py[m[36m:[m167[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m177[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m186[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m189[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m195[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m198[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m200[36m:[m67[36m:[m [1m[31mW291[m trailing whitespace
+[1mutils/monitoring.py[m[36m:[m201[36m:[m25[36m:[m [1m[31mE128[m continuation line under-indented for visual indent
+[1mutils/monitoring.py[m[36m:[m202[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m204[36m:[m20[36m:[m [1m[31mE128[m continuation line under-indented for visual indent
+[1mutils/monitoring.py[m[36m:[m207[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m217[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m227[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m233[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m236[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m248[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m258[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m262[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m269[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m278[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m284[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m287[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m291[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m297[36m:[m23[36m:[m [1m[31mF402[m import 'stats' from line 20 shadowed by loop variable
+[1mutils/monitoring.py[m[36m:[m303[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m305[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m309[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m313[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m319[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m322[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m332[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m339[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m343[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m349[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m367[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m370[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m379[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m383[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m386[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m389[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m396[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m400[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m409[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m418[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m420[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m425[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m427[36m:[m23[36m:[m [1m[31mW291[m trailing whitespace
+[1mutils/monitoring.py[m[36m:[m434[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/monitoring.py[m[36m:[m444[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m12[36m:[m1[36m:[m [1m[31mF401[m 'urllib.parse.parse_qs' imported but unused
+[1mutils/seller_extractor.py[m[36m:[m18[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mutils/seller_extractor.py[m[36m:[m23[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m27[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m34[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m38[36m:[m121[36m:[m [1m[31mE501[m line too long (147 > 120 characters)
+[1mutils/seller_extractor.py[m[36m:[m39[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m46[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m49[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m53[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m57[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m60[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m67[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m70[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m73[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m78[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m80[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m84[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m88[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m92[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m95[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m98[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m103[36m:[m121[36m:[m [1m[31mE501[m line too long (178 > 120 characters)
+[1mutils/seller_extractor.py[m[36m:[m107[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m109[36m:[m121[36m:[m [1m[31mE501[m line too long (128 > 120 characters)
+[1mutils/seller_extractor.py[m[36m:[m112[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m115[36m:[m121[36m:[m [1m[31mE501[m line too long (162 > 120 characters)
+[1mutils/seller_extractor.py[m[36m:[m120[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m132[36m:[m17[36m:[m [1m[31mE722[m do not use bare 'except'
+[1mutils/seller_extractor.py[m[36m:[m134[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m147[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m154[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m159[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m161[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m165[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m169[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m172[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m180[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m183[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m187[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m190[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m193[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m196[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m201[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m203[36m:[m121[36m:[m [1m[31mE501[m line too long (158 > 120 characters)
+[1mutils/seller_extractor.py[m[36m:[m206[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m214[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m219[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m224[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m226[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m230[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m234[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m238[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m243[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m249[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m253[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m262[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m269[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m273[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m275[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mutils/seller_extractor.py[m[36m:[m277[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+4     E111 indentation is not a multiple of 4
+4     E117 over-indented
+6     E128 continuation line under-indented for visual indent
+3     E203 whitespace before ':'
+1     E231 missing whitespace after ','
+8     E261 at least two spaces before inline comment
+20    E302 expected 2 blank lines, found 1
+2     E303 too many blank lines (2)
+2     E305 expected 2 blank lines after class or function definition, found 1
+1     E402 module level import not at top of file
+29    E501 line too long (130 > 120 characters)
+6     E701 multiple statements on one line (colon)
+1     E713 test for membership should be 'not in'
+2     E722 do not use bare 'except'
+1     E999 SyntaxError: invalid syntax. Perhaps you forgot a comma?
+27    F401 'typing.Union' imported but unused
+1     F402 import 'stats' from line 20 shadowed by loop variable
+2     F541 f-string is missing placeholders
+24    F821 undefined name 'requests'
+1     F841 local variable 'min_seller_reputation' is assigned to but never used
+46    W291 trailing whitespace
+2     W292 no newline at end of file
+707   W293 blank line contains whitespace

@@ -1,0 +1,8 @@
+GOOGLE_API_KEY="AIzaSyAbqSlCpn3v1Es_HOLT7R7wubgdPZwJQts"
+GOOGLE_CSE_ID="71e18c3f2b3e04447"
+KEY_VAULT_URI="https://AgenteSearchVault.vault.azure.net/"
+KEY_VAULT_NAME="AgenteSearchVault"
+RAPIDAPI_KEY="2199c56f5emsh48ee02e03c80d18p1c5be4jsne6acb2dd51b3"
+RAPIDAPI_HOST="mercado-libre7.p.rapidapi.com"
+OPENROUTER_API_KEY="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"
+OPENROUTER_MODEL="meta-llama/llama-3.2-11b-vision-instruct:free"
